@@ -1,0 +1,1 @@
+# aitrl-microservice-delete-company
